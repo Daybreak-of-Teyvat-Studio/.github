@@ -4,7 +4,7 @@
 
 Based on the famous second-meta game Genshin Impact to create a large Hearts of Iron IV Module: Daybreak of Teyvat! New Characters, Countries, Maps, Events, National Focus, Scripts, Game Systems, Soldier Models, Music, Technology, Welcome to Play!
 
-## 开发日志 / Dev Log
+## 开发日志 / Dev Logs
 
 - 蒙德之殇：钢4原神MOD开发日志第四期
 
